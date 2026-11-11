@@ -18,5 +18,5 @@ SET nome_cliente = 'Michael Jackson'
 UPDATE venda
 SET preco_unitario_venda = '4999.99'
 WHERE marca IN ('DELL')
-AND categoria IN ('Notebook')
+AND categoria IN ('Notebook');
 6:
